@@ -1,6 +1,6 @@
 # grunt-svgreindeer
 
-> Grunt task for [svgreindeer](https://github.com/bennyschudel/grunt-svgreindeer).
+> Grunt task for [svgreindeer](https://github.com/bennyschudel/node-svgreindeer).
 
 Renders SVG's to PNG's for a fallback in older IE's and email clients.
 
