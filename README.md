@@ -38,7 +38,7 @@ grunt.initConfig({
 
 ### Options
 
-Please check [svgreindeer.yml](https://github.com/bennyschudel/node-svgreindeer/blob/master/lib/svgreindeer.yml) for a list of available options.
+Please check [svgreindeer.yml](https://github.com/bennyschudel/node-svgreindeer/blob/master/svgreindeer.yml) for a list of available options.
 
 
 ## About
