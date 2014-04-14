@@ -1,6 +1,6 @@
 {
   "name": "grunt-svgreindeer",
-  "version": "0.4.1",
+  "version": "0.4.3",
   "description": "Grunt task for svgreindeer. Renders SVG's to PNG's for a fallback in older IE's and email clients.",
   "keywords": [
     "gruntplugin",
@@ -23,7 +23,8 @@
     "url": "https://github.com/bennyschudel/grunt-svgreindeer/issues"
   },
   "dependencies": {
-    "svgreindeer": "^0.4.1"
+    "q": "^1.0.1",
+    "svgreindeer": "^0.4.3"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.6.0",

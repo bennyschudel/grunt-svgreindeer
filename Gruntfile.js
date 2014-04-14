@@ -25,12 +25,15 @@ module.exports = function(grunt) {
     svgreindeer: {
       dev: {
         options: {
-          verbose : true,
-          input_dir: './example/',
-          output_dir: './_build/',
           scale: 2,
           style: '* { fill: chocolate; }',
+          verbose : true,
         },
+        files: [{
+          src: ['example/**/*.svg'],
+          dest: '_build/',
+          base: 'example/',
+        }],
       },
     },
 
